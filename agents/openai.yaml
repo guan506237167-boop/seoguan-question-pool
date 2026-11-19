@@ -1,0 +1,4 @@
+interface:
+  display_name: "关山阅·客户提问与监测问题池"
+  short_description: "围绕客户业务生成并整理 GEO 监测问题，按认知、比较、采购和使用阶段分组。适用于初次监测规划，不假造搜索量。"
+  default_prompt: "使用 $seoguan-question-pool，根据我提供的材料完成客户提问与监测问题池，保留证据与未确认项。"
